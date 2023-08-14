@@ -2,9 +2,9 @@
 title: Projeto Final
 has_children: true
 has_toc: true
-prazo_proposta: 16/04/2024
-prazo_modelagem: 07/05/2024
-prazo_codigo: 06/06/2024
+prazo_proposta: 14/09/2023
+prazo_modelagem: 10/10/2023
+prazo_codigo: 26/11/2023
 formulario_proposta: https://forms.gle/oVtGwuTKS8KrPQNSA
 ---
 
