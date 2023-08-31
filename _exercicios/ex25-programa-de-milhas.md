@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 12
+numero: 25
 nome: Programa de milhas
 topicos: JavaScript, funcional
 ---

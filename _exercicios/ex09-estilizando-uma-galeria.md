@@ -1,7 +1,7 @@
 ---
 layout: exercicio
 numero: 9
-nome: Estilizando um site de notícia
+nome: Estilizando uma galeria
 topicos: Seletores CSS, Pseudo-Classes
 ---
 

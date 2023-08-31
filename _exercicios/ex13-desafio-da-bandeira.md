@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 11
+numero: 13
 nome: Desafio das bandeiras
 topicos: CSS Box Model, Flexbox e Position
 ---
@@ -79,6 +79,13 @@ Construa as seguintes bandeiras:
 Para este nível, você deve prestar atenção especial aos detalhes e proporções da bandeira, bem como à sua estrutura e hierarquia visual. Use o CSS Box Model e o Flexbox para construir as bandeiras e certifique-se de que elas sejam fiéis às suas contrapartes reais.
 
 Boa sorte e divirta-se construindo as bandeiras! Lembre-se de que a prática é a chave para aprimorar suas habilidades em CSS Box Model e Flexbox.
+
+Dicas: 
+
+* A maneira mais fácil de construir essas bandeiras é usando o flexbox, apesar de algumas delas poderem ser construídas usando elementos flutuantes.
+* Não esqueça de definir uma altura fixa para o contêiner flex.
+
+
 Gostou? Não esqueça de avaliar o exercício:
 
 <a class="btn" href="https://forms.gle/scs1VxDDFSiMqAhe8" target="_blank"> Abra o formulário de avaliação</a>
