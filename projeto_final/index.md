@@ -5,7 +5,7 @@ has_toc: true
 prazo_proposta: 14/09/2023
 prazo_modelagem: 10/10/2023
 prazo_codigo: 26/11/2023
-formulario_proposta: https://forms.gle/oVtGwuTKS8KrPQNSA
+formulario_proposta: https://forms.gle/txEbZAkWUZxXEvrJ7
 ---
 
 # Projeto Final
