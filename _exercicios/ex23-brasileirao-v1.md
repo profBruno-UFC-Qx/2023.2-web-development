@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 22
+numero: 23
 nome: Pontuação no Campeonato Brasileiro
 topicos: javascript, objeto, funções
 ---
@@ -25,6 +25,7 @@ time:
 4. Dentro da função, implemente a lógica para calcular a pontuação total do time.
 5. Retorne a pontuação total calculada.
 6. Teste a função chamando-a com diferentes objetos de desempenho e exiba o resultado.
+7. O número de vitórias, empates e derrotas devem ser números inteiros e positivos, caso contrário uma exceção deve ser lançada.
 
 Exemplo de uso da função:
 

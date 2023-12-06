@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 20
+numero: 21
 nome: Filtrando elementos de um vetor
 topicos: javascript, funções, objetos, vetores
 ---

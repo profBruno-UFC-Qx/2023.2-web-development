@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 12
+numero: 13
 nome: Publicando uma notícia com fotos
 topicos: layout, float, clear
 ---

@@ -1,7 +1,7 @@
 ---
 layout: exercicio
-numero: 16
-nome: Layout básico responsivo
+numero: 17
+nome: Ocupando pra caber
 topicos: layout, responsividade, media query
 ---
 

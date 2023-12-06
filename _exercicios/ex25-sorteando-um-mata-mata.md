@@ -1,7 +1,7 @@
 ---
 layout: exercicio
-numero: 24
-nome: Sorteando um mata-mata
+numero: 25
+nome: Aquele desconto que todo mundo gosta
 topicos: javascript, funções, vetor
 ---
 

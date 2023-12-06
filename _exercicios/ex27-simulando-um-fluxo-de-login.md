@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 26
+numero: 27
 nome: Simulando um fluxo de login com promises
 topicos: javascript, promises, assícronicidade
 ---

@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 23
+numero: 24
 nome: Calculando o faturamento
 topicos: javascript, funções, argumentos variáveis
 ---

@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 21
+numero: 22
 nome: Ordenando um vetor
 topicos: javascript, funções, objetos, vetores
 ---
@@ -9,9 +9,10 @@ topicos: javascript, funções, objetos, vetores
 
 Neste exercício, você irá criar uma função que ordena um vetor de objetos com base em um critério específico.
 
-Considere que uma tarefa é representada por objeto que possui as seguintes propriedades como mostra o exemplo abaixo: título, concluida, prioridade e data.
 
-Exemplos de tarefas:
+## Instruções:
+
+Considere que uma tarefa é representada por objeto que possui as seguintes propriedades como mostra o exemplo abaixo: título, concluida, prioridade e data.
 
 ```js
 const tarefas = [
@@ -19,10 +20,8 @@ const tarefas = [
   { titulo: "Estudar HTML e CSS", concluida: true, prioridade: 1, data: "2023-08-10" }
 ]
 ```
-Instruções:
 
-
-1. Crie uma função chamada ordenarTarefas que aceita dois argumentos: o array de tarefas e um critério de ordenação (por exemplo, "prioridade" ou "titulo").
+1. Crie uma função chamada ordenarTarefas que aceita dois argumentos: o array de tarefas e um critério de ordenação (por exemplo, "prioridade" ou "titulo") e ordem (crescente ou decrescente).
 2. Implemente a lógica para ordenar o array de tarefas com base no critério fornecido.
   -  Se o critério for "prioridade", as tarefas devem ser ordenadas pela propriedade prioridade.
 3. A função deve retornar o vetor ordenado.
@@ -35,7 +34,7 @@ const tarefas = [
   // ...
 ];
 
-const tarefasOrdenadasPorData = ordenarTarefas(tarefas, "data");
+const tarefasOrdenadasPorData = ordenarTarefas(tarefas, "data", "crescente");
 console.log(tarefasOrdenadasPorData);
 ```
 

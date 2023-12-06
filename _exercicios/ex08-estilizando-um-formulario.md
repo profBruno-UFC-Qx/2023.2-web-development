@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 07
+numero: 8
 nome: Estilizando uma formulário
 topicos: Seletores CSS
 ---

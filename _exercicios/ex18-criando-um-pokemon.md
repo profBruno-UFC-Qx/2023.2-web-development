@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 17
+numero: 18
 nome: Criando um pokemon
 topicos: javascript, objeto, funções
 ---
@@ -27,15 +27,7 @@ Instruções:
 Exemplo de criação da função e chamada:
 
 ```javascript
-function criarPokemon(nome, tipo, nivel, hp) {
-  const pokemon = {
-    nome: nome,
-    tipo: tipo,
-    nivel: nivel,
-    hp: hp
-  };
-  return pokemon;
-}
+...
 
 const meuPokemon = criarPokemon("Pikachu", "Elétrico", 25, 80);
 console.log(meuPokemon);

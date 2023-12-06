@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 18
+numero: 19
 nome: Geração de URL para Imagens de Notícias
 topicos: javascript, string, funções
 ---
@@ -11,10 +11,11 @@ Neste exercício, você está desenvolvendo um sistema de gerenciamento de notí
 
 Instruções:
 
-1. Crie uma função chamada gerarURLImagem que aceita um argumento `tituloNoticia `(string) representando o título da notícia.
+1. Crie uma função chamada gerarURLImagem que aceita um argumento `gerarURLImagem `(string) representando o título da notícia.
 2. Dentro da função, realize as seguintes etapas para gerar a URL:
-  - Remova espaços em branco e caracteres especiais (à, á, â, ã, é, ê, è, e ó, õ) do `tituloNoticia`.
-  - Converta o `tituloNoticia` para letras minúsculas.
+  - Remova espaços em branco extras, do início e do final do título.
+  - Remova os caracteres especiais (à, á, â, ã, é, ê, è, e ó, õ) do título da notícia.
+  - Converta o título da notícia para letras minúsculas.
   - Substitua os espaços restantes por hífens (-) para criar uma URL amigável.
 3. Adicione a extensão ".jpg" ao final da URL.
 4. Retorne a URL gerada.
@@ -28,7 +29,6 @@ const urlImagem = gerarURLImagem(titulo);
 console.log(`URL da imagem: ${urlImagem}`);
 
 ```
-Dica: Use métodos como `.replace()`, `.toLowerCase()` e concatenação de strings para criar a URL.
 
 Gostou? Não esqueça de avaliar o exercício:
 

@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 06
+numero: 07
 nome: Estilizando uma lista de compras
 topicos: Seletores CSS
 ---

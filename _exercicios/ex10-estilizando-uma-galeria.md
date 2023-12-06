@@ -1,6 +1,6 @@
 ---
 layout: exercicio
-numero: 9
+numero: 10
 nome: Estilizando uma galeria
 topicos: Seletores CSS, Pseudo-Classes
 ---
@@ -43,17 +43,16 @@ Instruções:
 
 
 1. Posicione o título principal de foram centralizada horizontalmente
-1. Altere a fonte do título principal para *negrito*
-1. Altere a cor do plano de fundo da galeria para *gray*
-1. Adicione margens verticais e horizontais nos elementos figure
-1. Altere a fonte das legendas da imagem para que tenham o tamanho de *1.2em* e para que elas fiquem em *negrito*
+1. Altere a cor da fonte do título principal para *#043a83*, utilize a font-family cursive
+1. Altere a cor do plano de fundo da página inteitra para *azure*
+1. Altere a fonte das legendas da imagem para que tenham o tamanho de *1.2em* e para que elas fiquem em *negrito* e cor #043a83
 1. Altere a cor dos links que vem logo após uma imagem de para *#007bff* e faça com que eles apareça sem o sublinhado
-1. Altere a cor e o estilo do link "View full size" quando o mouse passa por cima dele para *rgb(25, 0, 255)*
-1. As imagens da galeria deve possuir borda arrendondas de *15 pixels* e devem ocupar 100% da largura da tela
-1. Adicione um efeito de sombreamento às imagens na galeria de *5 pixels* em cada lado
+1. Altere a cor e o estilo do link "View full size" quando o mouse passa por cima dele para *rgb(150, 140, 243)*
+1. As imagens da galeria deve possuir borda sólida de com branca com 15px de largura e arrendonda em *15 pixels*
+1. As imagens devem ocupar 100% da largura da tela e deve ter o plano de fundo na cor branca
+1. Adicione um efeito de sombreamento na cor #9FA3A0 às imagens na galeria de 2 pixels nos eixos x e y, com 15 pixels de blur e 0px de espalhamento* em cada lado
 1. Quando o mouse passar sobre uma imagem e aumento o brilho da imagem em 20%
 1. Adicione o emoji 📷 antes da primeira letra da legenda das imagens sem alterar o código HTML.
-
 
 
 **Certifique-se de validar seu código HTML usando um validador como o [W3C Markup Validation Service](https://validator.w3.org/), para garantir que seu código esteja sem erros e bem formado**.
