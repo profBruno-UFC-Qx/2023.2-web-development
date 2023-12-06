@@ -54,7 +54,7 @@ O trabalho pode ser feito em equipe
     - Para trabalhos em equipe com **mais de dois membros**, as regras de negócio serão avaliada para verificar a elegibilidade do projeto.
   - A aplicação deve possuir pelo menos **3 papéis de usuários** de forma que todos os **papéis** possuam permissões diferentes.
   - A aplicação deve persistir seus dados em **banco dados cuja iteração deve ser feita com um backend via requições HTTP**. O **backend** deve fornecer um serviço de **autenticação usando JWT**.
-  - A aplicação deve possuir uma **área pública com páginas/serviços acessíveis a todos; e uma área restrita com páginas/serviços acessíveis somente a usuários autenticados**. Consequentemente, o **frontend** deve implementar um mecanimo de **autenticação & autorização**.
+  - A aplicação deve possuir uma **área pública com páginas/serviços acessíveis a todos; e uma área restrita com páginas/serviços acessíveis somente a usuários autenticados**. Consequentemente, o **frontend** deve implementar um mecanismo de **autenticação & autorização**.
     - As rotas do frontend não podem ser todas públicas.
   - A aplicação **OBRIGATORIAMENTE** deve utilizar a biblioteca **VueRouter** para realizar o roteamento no front e **Pinia** para armazenar informações do usuário autenticado.
   - A aplicação deve ter uma barra de navegação/menu com todas as opções/links funcionando e a opção de logout deve estar sempre visível.
@@ -68,6 +68,9 @@ Caso o trabalho seja feito em equipe, cada membro da equipe deve usar seu própr
 {: .label .label-yellow }
 
 Não serão aceitos trabalhos implementados em um único commit.
+{: .label .label-red }
+
+TODOS os membros da equipe devem se envolver em atividades que incluem a ESCRITA de código HTML, CSS e principalmente JavaScript ou TypeScript.
 {: .label .label-red }
 
 
